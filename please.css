@@ -14,9 +14,12 @@ justify-content: center;
 flex-direction: column;
 }
 
-.text, .text2{
+.text, .text2, .link{
   display: block;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
   font-family: Amiri, Arial;
+}
+.link{
+cursor: pointer;
 }
