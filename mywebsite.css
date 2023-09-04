@@ -1,0 +1,22 @@
+.body{
+  background-color: rgb(15, 15, 15);
+  margin: 0;
+}
+.center{
+position: fixed;
+top: 0;
+right: 0;
+left: 0;
+bottom: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.text, .text2{
+  display: block;
+  color: white;
+  font-size: 25px;
+  font-family: Amiri, Arial;
+}
