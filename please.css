@@ -14,19 +14,9 @@ justify-content: center;
 flex-direction: column;
 }
 
-.text, .text2, .link{
+.text, .text2{
   display: block;
   color: white;
   font-size: 50px;
   font-family: Amiri, Arial;
-}
-.link{
-  text-decoration: none;
-  cursor: pointer;
-}
-.link:hover{
-  opacity: 0.8;
-}
-.link:active{
-  opacity: 0.5;
 }
